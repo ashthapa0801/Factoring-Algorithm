@@ -1,4 +1,3 @@
-%% Only works for 4 orders properly!!
 % funcT = mod(T,M) // remainder = mod(a^n,m) // b = a^n - floor(a^n./m)*m
 % 7^t mod (100)
 clc;
