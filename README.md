@@ -1,1 +1,1 @@
-# Factoring Algorithm via Modular Exponential Funciton
+# Factoring Algorithm via Modular Exponential Function
