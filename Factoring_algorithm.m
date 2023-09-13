@@ -18,7 +18,7 @@ Z = fftshift(FTsignal);                 % Computes descrete fourier transform of
 Z_mag = abs(Z.*Z);                      % Returns absolute value of each element 
 
 % Plotting Graphs
-title('Register in superposition state')
+title('Still haven't thought of a title yet')
 tiledlayout(4,1)                        % 4 rows meaning 4 different graphs
 Z_ax2 = nexttile;                       % Creates an axes object and inputs the graph into the next empty tile of the layout
 plot(Z_ax2,fncT)
