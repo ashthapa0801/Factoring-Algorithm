@@ -1,1 +1,1 @@
-# Factoring Algorithm via Modular Exponential Function
+# Large Integer Factorisation Algorithm via Modular Exponential Function
